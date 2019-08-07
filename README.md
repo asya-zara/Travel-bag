@@ -1,9 +1,9 @@
 # Travel-bag
-** Web-card Travel bag **
+**Web-card Travel bag**
 
 ## Card travel
-** tech include: **
+**tech include:**
 - HTML/CSS
 - PixelPerfect
 ***
-**Preview: https://asya-zara.github.io/Web-cutaway-travel/**
+**Preview:  https://asya-zara.github.io/Travel-bag/**
